@@ -1,0 +1,57 @@
+# ========================
+# OS-generated files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# ========================
+# IDE / Editor
+# ========================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.factorypath
+*.launch
+nbproject/
+.nb-gradle/
+
+# ========================
+# Backend (Java / Maven)
+# ========================
+target/
+backend/target/
+*.class
+*.jar
+*.war
+*.log
+*.logs
+hs_err_pid*
+
+# ========================
+# Frontend (Node / Vite)
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# ========================
+# Environment / Secrets
+# ========================
+.env
+.env.*
+*.env
+
+# ========================
+# Uploads (runtime data)
+# ========================
+backend/uploads/
+uploads/
