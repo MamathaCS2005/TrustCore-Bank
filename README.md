@@ -1,4 +1,4 @@
-# Online Banking System
+# TrustCore Bank
 
 A full-stack online banking application with Admin and Customer portals, built with Spring Boot (backend) and React + Vite (frontend).
 
